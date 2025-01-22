@@ -1,9 +1,10 @@
 # Locked Savings Platform
 
+![Image](https://github.com/user-attachments/assets/9fb1a4d3-3ef3-46be-bf3d-ad988f5e4e87)
+
 ## Overview
 FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discipline among cryptocurrency and virtual asset owners. It allows users to lock their ETH and ERC-20 tokens in secure vaults that can only be accessed after a predefined lock period or during emergencies. The platform promotes long-term savings while providing flexibility for deposits and adjustable lock durations.
 
----
 
 ## Features
 - Asset Locking:  
@@ -17,7 +18,6 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 - Secure and Transparent:  
   Built on Ethereum, leveraging smart contracts for transparency and trust.
 
----
 
 ## User Flow
 1. Register/Login:  
@@ -33,7 +33,6 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 6. Emergency Withdrawals:  
    Access funds under emergency conditions, subject to penalties or verification.  
 
----
 
 ## Technology Stack
 - Blockchain: Ethereum  
@@ -42,7 +41,6 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 - Backend: Node.js with Supabase for authentication and database management  
 - Tools: Hardhat, OpenZeppelin, and ethers.js  
 
----
 
 ## How It Works
 1. Lock ETH:  
@@ -59,7 +57,6 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 4. Releases Funds:  
    After the lock duration, users can withdraw assets directly to their wallets.
 
----
 
 ## Getting Started
 1. Clone the repository:
@@ -85,14 +82,12 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 
 5. Connect your wallet and start saving securely!
 
----
 
 ## Future Enhancements 
 - Support for multi-chain deployments (e.g., Polygon, Binance Smart Chain).  
 - Gamification features to reward disciplined savers.  
 - A mobile app for seamless access and management.  
 
----
 
 ## Contributing
 Contributions are welcome! To get started:  
@@ -100,9 +95,7 @@ Contributions are welcome! To get started:
 2. Create a new branch for your feature/bug fix.  
 3. Submit a pull request for review.  
 
----
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
