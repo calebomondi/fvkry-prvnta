@@ -38,7 +38,7 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 ## Technology Stack
 - Blockchain: Ethereum  
 - Smart Contracts: Solidity (ERC-20 and ETH support)  
-- Frontend: ReactJ  
+- Frontend: ReactJS
 - Backend: Node.js with Supabase for authentication and database management  
 - Tools: Hardhat, OpenZeppelin, and ethers.js  
 
