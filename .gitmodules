@@ -1,0 +1,3 @@
+[submodule "fvkry-fe"]
+	path = fvkry-fe
+	url = file:///D:/blockchain/Web3Cohort7/fvkry/fvkry-fe
