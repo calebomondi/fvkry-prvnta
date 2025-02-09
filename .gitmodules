@@ -4,3 +4,6 @@
 [submodule "fvkry-smartcontract"]
 	path = fvkry-smartcontract
 	url = https://github.com/calebomondi/fvkry-hardhat
+[submodule "fvkry-be"]
+	path = fvkry-be
+	url = https://github.com/calebomondi/fvkry-backend
