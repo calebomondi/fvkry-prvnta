@@ -8,7 +8,7 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
 ## Features
 - Asset Locking:  
   Lock ETH and ERC-20 tokens in a secure smart contract vault.  
-- Flexible Lock Periods:  
+- Flexible Lock Periods:
   Users can set lock durations for days, weeks, months or years.   
 - Add-on Deposits:  
   Add more assets to your vault without resetting the lock period.  
