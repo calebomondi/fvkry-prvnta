@@ -5,7 +5,6 @@
 ## Overview
 FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discipline among cryptocurrency and virtual asset owners. It allows users to lock their ETH and ERC-20 tokens in secure vaults that can only be accessed after a predefined lock period or during emergencies. The platform promotes long-term savings while providing flexibility for deposits and adjustable lock durations.
 
-
 ## Features
 - Asset Locking:  
   Lock ETH and ERC-20 tokens in a secure smart contract vault.  
@@ -15,14 +14,6 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
   Add more assets to your vault without resetting the lock period.  
 - Secure and Transparent:  
   Built on Ethereum, leveraging smart contracts for transparency and trust.
-- Partial or Full Withdrawal
-  When the a lock expires the user can withdraw partial or the whole amount that was locked.
-- Unlock Schedule
-  Enables users to set an unlock schedule for when they will be accessing a portion of their locked assets within a given time period.
-- Extend Lock Period
-  Users can extend the lock period of a lock after it expires.
-- Lock with a Goal
-  User can define a lock as goal-based, the lock will expire when the the value of the locked assets reaches the goal set
 
 
 ## User Flow
@@ -34,8 +25,18 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
    Specify lock duration, type and assets to lock.  
 4. Deposit Management:  
    Add more funds to an existing vault.  
-5. Extenf Lock Period:  
-   Extend the lock period after it expires.  
+5. Adjust Lock Period:  
+   Extend the lock period after every three months if needed.  
+6. Emergency Withdrawals:  
+   Access funds under emergency conditions, subject to penalties or verification.  
+
+
+## Technology Stack
+- Blockchain: Ethereum  
+- Smart Contracts: Solidity (ERC-20 and ETH support)  
+- Frontend: ReactJS
+- Backend: Node.js with Supabase for authentication and database management  
+- Tools: Hardhat, OpenZeppelin, and ethers.js  
 
 
 ## How It Works
@@ -51,7 +52,7 @@ FVKRY PRVNTA is a blockchain-based solution designed to enhance financial discip
    - Extend lock period if it expires.  
 
 4. Releases Funds:  
-   After the lock duration or wh, users can withdraw assets directly to their wallets.
+   After the lock duration, users can withdraw assets directly to their wallets.
 
 ## Technology Stack
 - Blockchain: Ethereum  
